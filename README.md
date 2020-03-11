@@ -1,6 +1,10 @@
 # Survival
 ****
 
+<p align="center">
+<img src="Survival.gif">
+</p>
+
 A top-down hack and slash survival game built in Unreal Engine using Blueprint Scripting created to explore Unreal's lighting, post-processing, particle and animation systems.
 
 ### Features
